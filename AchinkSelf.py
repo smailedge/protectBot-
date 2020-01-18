@@ -17,7 +17,7 @@ ki2 = LINETCR.LINE()
 ki2.login(token="ENsfvp5rneirVUu1Blub.prRZLwJqPCmMfE5IXSxJAW.LtVSqpHkdL8UuktfqjQWM9W2rL8rByb+PmPRcxxxAO0=")
 ki2.loginResult()
 
-print "login success chink"
+print ("login success chink")
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
